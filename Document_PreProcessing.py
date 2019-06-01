@@ -99,7 +99,8 @@ for x in corpus:
     idf_weight[str(x)] = count
     
 #menghitung nilai wtf.idf    
-wtfidf = {}    
+wtfidf = {}   
+#LMAOOOO 
 for x in wtf_weight.keys():
     count = 0
     wtf =[]
